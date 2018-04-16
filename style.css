@@ -1,0 +1,16 @@
+body{
+  font-family: 'Kanit', sans-serif;
+}
+label{
+  font-weight: bold;
+}
+p{
+  font-weight: bold;
+  font-size: 2em;
+}
+.green{
+  color: green;
+}
+.red{
+  color: red;
+}
